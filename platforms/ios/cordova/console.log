@@ -1,0 +1,14 @@
+2015-05-17 15:44:40.852 VHelper[1402:3389801] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/wcheng/Library/Developer/CoreSimulator/Devices/3EB2A90C-CE66-4F22-8886-FA89EE5B118C/data/Containers/Data/Application/807F66FE-C165-4299-B769-A0E92143D16C/Library/Cookies/Cookies.binarycookies
+2015-05-17 15:44:41.322 VHelper[1402:3389801] Apache Cordova native platform version 3.7.0 is starting.
+2015-05-17 15:44:41.323 VHelper[1402:3389801] Multi-tasking -> Device: YES, App: YES
+2015-05-17 15:44:41.350 VHelper[1402:3389801] Unlimited access to network resources
+2015-05-17 15:44:41.370 VHelper[1402:3389801] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-17 15:44:42.447 VHelper[1402:3389801] Resetting plugins due to page load.
+2015-05-17 15:44:42.963 VHelper[1402:3389801] Finished load of: file:///Users/wcheng/Library/Developer/CoreSimulator/Devices/3EB2A90C-CE66-4F22-8886-FA89EE5B118C/data/Containers/Bundle/Application/32067C96-BADE-41A7-931D-018B837EB46E/VHelper.app/www/index.html
